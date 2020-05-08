@@ -1,0 +1,4 @@
+#Sat Apr 25 22:39:19 EDT 2020
+base.0=/Users/adityabansal/Desktop/Main/Subjects/spring20/DistributedSystem/projects/P3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
